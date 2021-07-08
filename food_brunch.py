@@ -8,13 +8,5 @@ brunch = [
     {"name" : "Cornerstone Cafe", "cuisine" : "american", "pricing" : "$$", "location" : "east village"},
     {"name" : "San Marzano", "cuisine" : "italian", "pricing" : "$", "location" : "east village"},
     {"name" : "Jackdaw", "cuisine" : "irish", "pricing" : "$$", "location" : "east village"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
-    {"name" : "Lamia's Fish Market", "cuisine" : "seafood", "pricing" : "$$", "location" : "alphabet city"},
+    {"name" : "Sunflower", "cuisine" : "american", "pricing" : "$$", "location" : "gramercy"}
 ]
