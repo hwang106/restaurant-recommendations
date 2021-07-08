@@ -1,4 +1,8 @@
 import food_brunch
+import food_cafe
+import food_desserts
+import food_fastfood
+import food_restaurants
 #pricing, type of food (brunch/restaurant/etc), location, cuisine
 #suggest restaurant
 
@@ -18,3 +22,4 @@ if preference.lower() == "brunch":
         for i in range(len(food_brunch.brunch)):
             if location.lower() == food_brunch.brunch[i]["location"] and price.lower() == food_brunch.brunch[i]["pricing"]:
                 print(food_brunch.brunch[i]["name"] + " (" + food_brunch.brunch[i]["cuisine"].title() + " food)")
+
