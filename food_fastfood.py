@@ -2,7 +2,7 @@ fast_food = [
     {"Name": "Tompkins Square Bagels", "Type": "bagels", "Price range": "$", "Location": "east village" },
     {"Name": "Brooklyn Bagel Co.", "Type": "bagels", "Price range": "$", "Location": "greenwich village" },
     {"Name": "Murray's Bagels", "Type": "bagels", "Price range": "$", "Location": "greenwich village" },
-    {"Name": "Russ & Daughters", "Type": "bagels", "Price range": "$$", "Location": "lower east side },
+    {"Name": "Russ & Daughters", "Type": "bagels", "Price range": "$$", "Location": "lower east side" },
     {"Name": "Ess-a-Bagel", "Type": "bagels", "Price range": "$", "Location": "midtown" },
     {"Name": "Smashed", "Type": "burgers", "Price range": "$", "Location": "lower east side" },
     {"Name": "Sticky's Finger Joint", "Type": "chicken fingers", "Price range": "$", "Location": "union square" },

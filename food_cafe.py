@@ -19,5 +19,5 @@ cafe = [
         {"Name": "Devocion", "Type": "coffee shop", "Price range": "$", "Location": "flatiron"},
         {"Name": "Dr Smood", "Type": "coffee shop", "Price range": "$$", "Location": "soho"},
         {"Name": "Ground Support Coffee", "Type": "coffee shop", "Price range": "$", "Location": "soho"},
-        {"Name": "Alimama", "Type": "coffeeshop", "Price range": "$$", "Location": "chinatown"}
+        {"Name": "Alimama", "Type": "coffee shop", "Price range": "$$", "Location": "chinatown"}
 ]

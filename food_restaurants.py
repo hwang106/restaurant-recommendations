@@ -7,7 +7,6 @@ restaurants = [
     {"name" : "Nom Wah Tea Parlor", "cuisine" : "chinese", "pricing" : "$", "location" : "chnatown"},
     {"name" : "Tasty Hand-Pulled Noodles", "cuisine" : "chinese", "pricing" : "$", "location" : "chinatown"},
     {"name" : "Xi'an Famous Foods", "cuisine" : "chinese", "pricing" : "$", "location" : "chinatown"},
-    {"name" : "Rao's", "cuisine" : "italian", "pricing" : "$$$$", "location" : "east harlem"},
     {"name" : "Soothr", "cuisine" : "thai", "pricing" : "$$", "location" : "east village"},
     {"name" : "San Marzano", "cuisine" : "italian", "pricing" : "$", "location" : "east village"},
     {"name" : "Gemma", "cuisine" : "italian", "pricing" : "$$$", "location" : "east village"},
