@@ -1,7 +1,9 @@
+#I love how clean your code is with your separation of data and the main process.
 import food_brunch, food_cafe, food_desserts, food_restaurants, food_fastfood
 
 preference = input("What type of food would you prefer to eat: Brunch, Cafe, Fast Food, Desserts, Restaurants? ")
 
+#I know that you guys would add the code for the other foods types with more time. If the code ends up being very similar to "brunch" and "restaurants," how could you make the code more concise?
 if preference.lower() == "brunch":
     choice = input("Would you like to choose your restaurant by cuisine or location? ")
     if choice.lower() == "cuisine":
